@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Flutter shop application using:
+- **Flutter UI**
+- **Dart programing**
+- **API**  https://student.valuxapps.com/api/
+- **Dio helper**
+- **shared_preferences**
+- **fluttertoast**
+- **carousel_slider**
+- **flutter_conditional_rendering**
+- **curved_navigation_bar**
 
-A few resources to get you started if this is your first Flutter project:
+![shop-pic-1](https://user-images.githubusercontent.com/92161296/184412156-3a406c38-ce84-4f4e-a1a0-5e3bc98dd48f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![shop-pic-2](https://user-images.githubusercontent.com/92161296/184412195-940ed7f2-7879-40fe-b2f6-048b16d64c6c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![shop-pic-3](https://user-images.githubusercontent.com/92161296/184412221-56f1c0f7-538f-41ba-9769-f551bc8f6b13.png)
